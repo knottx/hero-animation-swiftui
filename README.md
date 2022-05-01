@@ -1,2 +1,2 @@
-# hero-animation-swiftui
+# Hero Animation
 SwiftUI
